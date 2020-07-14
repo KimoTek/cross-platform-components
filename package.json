@@ -2,8 +2,8 @@
   "name": "cross-platform-styling",
   "version": "0.1.0",
   "private": true,
-  "main": "components/index.js",
-  "react-native": "components/native.js",
+  "main": "src/components/index.js",
+  "react-native": "src/components/native.js",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
