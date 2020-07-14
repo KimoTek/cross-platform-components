@@ -1,5 +1,5 @@
-let white = "white";
-const green = "green";
+const white = 'white';
+const green = 'green';
 
 const baseButtonStyles = `
   border-radius: 10px;
